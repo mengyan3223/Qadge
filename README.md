@@ -9,22 +9,23 @@ Termux 环境，推荐安装基础包：
 pkg update && pkg upgrade
 pkg install git bash
 
+
+## 🚀 使用教程
+### 一键安装（推荐）
+```bash
+curl -s https://raw.githubusercontent.com/mengyan3223/Qadge/main/install.sh | bash
+
 git clone https://github.com/mengyan3223/Qadge.git
 cd Qadge
 
-## 🚀 使用教程
-### 拉取项目
-```bash
-git clone https://github.com/mengyan3223/Qadge.git
-cd Qadge
+bash run.sh
 
 git pull
 
-## 📝 更新日志
-- 2026-10-26：仓库首次上传代码
 
-## 📄 许可证
-MIT
+写完之后，执行这三条：
+```bash
+git add README.md
+git commit -m "update README 增加run.sh启动说明"
+git push
 
-## ⚠️ 免责声明
-本项目仅供学习交流使用，请勿用于违规用途，一切后果使用者自行承担。

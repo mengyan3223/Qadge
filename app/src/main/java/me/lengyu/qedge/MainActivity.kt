@@ -268,7 +268,7 @@ class MainActivity : ComponentActivity() {
     private companion object {
         const val QQ_GROUP_URL = "https://qm.qq.com/q/ElvGZvBrZC"
         const val TELEGRAM_URL = "https://t.me/+St91SS8CLNUyMDY1"
-        const val GITHUB_URL = "https://github.com/LengYu-cr/QEdge-main"
+        const val GITHUB_URL = "https://github.com/MengYan-cr/QEdge-main"
         const val USER_BACKEND_URL = "https://v.yuafeng.cn/QEdge/user/index.php"
         const val QQ_PACKAGE_NAME = "com.tencent.mobileqq"
         const val UPDATE_CHECK_URL = "https://v.yuafeng.cn/QEdge/update/check.php"
